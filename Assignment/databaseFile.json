@@ -1,0 +1,72 @@
+[
+  [
+    [
+      [
+        [
+          [
+            [
+              [
+                [
+                  {
+                    "username": "user2",
+                    "password": "$2a$10$/HPZC6WBt/HmMMgLRGS3Aepqpfhily3cpz8LsjyU1uHZKrzz16hBe",
+                    "email": "d@q",
+                    "number": "9123456780"
+                  }
+                ],
+                {
+                  "username": "user1",
+                  "password": "$2a$10$Co57TtL.13C54MbmVT0BEOsuAtjOOvkLVX.NKWIhwwNIZ/nTe6uJ6",
+                  "email": "user2@gmail.com",
+                  "number": "9876543210"
+                }
+              ],
+              {
+                "username": "user3",
+                "password": "$2a$10$8hydVKCdHUq7snn6b2l9x..nKRhJazmcE1bRFl1xKs2GxxqaJJROu",
+                "email": "user3@gmail.com",
+                "number": "9876543210"
+              }
+            ],
+            {
+              "username": "user5",
+              "password": "$2a$10$MjB9lq20daTzKNEGXQ/Y6.AVSathQJfUb7DySM0Vk5jBs5LcTO2Wa",
+              "email": "user4@gmail.com",
+              "number": "9876543212"
+            }
+          ],
+          {
+            "username": "user6",
+            "password": "$2a$10$jKCMe6lw1mQh0Nxt/oL1kuMH5ilj.b6iPdTcsNNyNQJYzhPqmnm7y",
+            "email": "user4@gmail.com",
+            "number": "9876543213"
+          }
+        ],
+        {
+          "username": "user6",
+          "password": "$2a$10$DQBu3JzhimWQGwEyVxYg1.I/DM5K/XpiKBxSB7mIJxOTcWkTNBf0S",
+          "email": "user4@gmail.com",
+          "number": "9876543213"
+        }
+      ],
+      {
+        "username": "user1",
+        "password": "$2a$10$KWgq86xcToqiRdtlprkAR.CI2Foq.EcryJwL2JDuUuvuXGsPYU3Ai",
+        "email": "user1@gmail.com",
+        "number": "9876543210"
+      }
+    ],
+    {
+      "username": "user2",
+      "password": "$2a$10$x0MVFKW/kpRB3azgii7F6O3Nmqa0SQ/TqooPHs7j8JmUfd99YGaF2",
+      "email": "user2@gmail.com",
+      "number": "9876543211"
+    }
+  ],
+  {
+    "username": "user3",
+    "password": "$2a$10$54VS5lnfIoU6.pdH7afENOVBYhOAwV1S4wsP7.LLpZuxQuM4wkmpe",
+    "email": "user3@gmail.com",
+    "number": "9876543213"
+  }
+]
